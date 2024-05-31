@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\GameObjects">
+      <UniqueIdentifier>{6677fb12-b730-475a-92a0-f7e124262d9f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameObjects">
+      <UniqueIdentifier>{5d616ce1-e0a9-4b70-bc96-cbb4c51d9b7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\EntryPoint">
+      <UniqueIdentifier>{fb2b7d6f-35c6-4892-89a6-2ffe7cc0803c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\LevelTimer">
+      <UniqueIdentifier>{b5f4ecc5-e5bd-477c-810f-e235161a73e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine">
+      <UniqueIdentifier>{a4d3804c-1de7-4029-b2ac-628a56e3ef0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Texture2D">
+      <UniqueIdentifier>{323dc478-0124-4414-a737-70368f2bcd61}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\GameObject">
+      <UniqueIdentifier>{d4d60629-5992-447a-9712-4e8c35b75acd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Physics">
+      <UniqueIdentifier>{6a831688-6854-4541-a105-fa6f43840e42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GUI">
+      <UniqueIdentifier>{6abd40af-6a2c-4d0b-a45f-14b070f5ec3b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Camera">
+      <UniqueIdentifier>{afe273aa-124e-4ac1-8338-35b2916ce79d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine">
+      <UniqueIdentifier>{9c5deb69-ee27-4981-9875-4fa67166b2b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\SceneManager">
+      <UniqueIdentifier>{be3ab9c0-9127-4e79-855a-0605b304a495}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game Scenes">
+      <UniqueIdentifier>{497c6b59-bf2f-4da4-9287-de0bf86cd280}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game Scenes">
+      <UniqueIdentifier>{f7b59b8a-e737-41d2-96f8-7a8926a80b3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Scene Manager">
+      <UniqueIdentifier>{17d94ed5-cbd6-4574-8f65-501b0dc0f2f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameObjects\Backgrounds">
+      <UniqueIdentifier>{00a3a244-ac37-48b9-bdcb-26a831a8d07a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Gameobject">
+      <UniqueIdentifier>{9bfc9ada-1a21-4853-a297-f01cf0440d13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Texture2D">
+      <UniqueIdentifier>{d1d7e0d9-5f0e-4498-9f58-e8b188b887e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Physics">
+      <UniqueIdentifier>{9cf3b2f4-e2dd-4d30-b81f-df15138749b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Commons">
+      <UniqueIdentifier>{d710ec8b-089d-4dc9-bde0-6919fe7b4efd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\Camera">
+      <UniqueIdentifier>{edd7e78f-87b2-48f3-83cc-69abe1edb45f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Engine\MATH">
+      <UniqueIdentifier>{d3babee3-81fb-4179-9ad5-2dec8cd5e823}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameObjects\Coins">
+      <UniqueIdentifier>{e3a002c5-8858-4931-ae55-b7c5a29ba686}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameObjects\Obstacles">
+      <UniqueIdentifier>{c56bb042-111a-4458-ac9e-dbd3c5f8c311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GUI">
+      <UniqueIdentifier>{0791fcc8-23db-4b47-bdcb-c61bb548185f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\LevelTimer">
+      <UniqueIdentifier>{7a508265-c4f1-4d1c-a295-a2f74c402bca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameObjects\PlayerCharacter">
+      <UniqueIdentifier>{d81a4f43-e4ff-4569-aadb-b1f8538825e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObjects\PlayerCharacter">
+      <UniqueIdentifier>{70d79607-dc2f-43a0-b525-cae90eef99ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObjects\Backgrounds">
+      <UniqueIdentifier>{38e88073-3819-4787-8741-633fdbe22991}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObjects\Coins">
+      <UniqueIdentifier>{953a9f8b-3056-4fbd-8755-51ae6c11d9ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObjects\Obstacles">
+      <UniqueIdentifier>{e86ec528-1daf-4d54-95b1-41609176f629}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObjects\Power Ups">
+      <UniqueIdentifier>{70c56ead-1b4e-41fa-927a-e7a6839d2cf1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameObjects\PowerUps">
+      <UniqueIdentifier>{ffcd63fa-98f4-4802-940f-dec93f7da8c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Managers">
+      <UniqueIdentifier>{84ef9962-cd06-4c52-a3d2-579246c2e9c2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Managers">
+      <UniqueIdentifier>{2d53ddc3-dcdb-402d-91f9-ea829f97836f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GameScreenLevel1.cpp">
+      <Filter>Source Files\Game Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="GameTitleScreen.cpp">
+      <Filter>Source Files\Game Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScreen.cpp">
+      <Filter>Source Files\Scene Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="GameScreenManager.cpp">
+      <Filter>Source Files\Scene Manager</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOverScreen.cpp">
+      <Filter>Source Files\Game Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Background.cpp">
+      <Filter>Source Files\GameObjects\Backgrounds</Filter>
+    </ClCompile>
+    <ClCompile Include="BackgroundManager.cpp">
+      <Filter>Source Files\GameObjects\Backgrounds</Filter>
+    </ClCompile>
+    <ClCompile Include="Collisions.cpp">
+      <Filter>Source Files\Engine\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Source Files\Engine\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Obstacle.cpp">
+      <Filter>Source Files\GameObjects\Obstacles</Filter>
+    </ClCompile>
+    <ClCompile Include="ObstacleManager.cpp">
+      <Filter>Source Files\GameObjects\Obstacles</Filter>
+    </ClCompile>
+    <ClCompile Include="CoinManager.cpp">
+      <Filter>Source Files\GameObjects\Coins</Filter>
+    </ClCompile>
+    <ClCompile Include="Coin.cpp">
+      <Filter>Source Files\GameObjects\Coins</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerCharacter.cpp">
+      <Filter>Source Files\GameObjects\PlayerCharacter</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files\EntryPoint</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelTimerManager.cpp">
+      <Filter>Source Files\LevelTimer</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture2D.cpp">
+      <Filter>Source Files\Engine\Texture2D</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Source Files\Engine\GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="GUIText.cpp">
+      <Filter>Source Files\GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="PowerUpManager.cpp">
+      <Filter>Source Files\GameObjects\Power Ups</Filter>
+    </ClCompile>
+    <ClCompile Include="PowerUp.cpp">
+      <Filter>Source Files\GameObjects\Power Ups</Filter>
+    </ClCompile>
+    <ClCompile Include="CarCustomisationScreen.cpp">
+      <Filter>Source Files\Game Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1ObjectSpawnHandler.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="SaveGame.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="Audio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioManager.cpp">
+      <Filter>Source Files\Managers</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameScreenLevel1.h">
+      <Filter>Header Files\Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameTitleScreen.h">
+      <Filter>Header Files\Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScreenManager.h">
+      <Filter>Header Files\SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="GameScreen.h">
+      <Filter>Header Files\SceneManager</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOverScreen.h">
+      <Filter>Header Files\Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="BackgroundManager.h">
+      <Filter>Header Files\GameObjects\Backgrounds</Filter>
+    </ClInclude>
+    <ClInclude Include="Background.h">
+      <Filter>Header Files\GameObjects\Backgrounds</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Header Files\Engine\Gameobject</Filter>
+    </ClInclude>
+    <ClInclude Include="Commons.h">
+      <Filter>Header Files\Engine\Commons</Filter>
+    </ClInclude>
+    <ClInclude Include="Constants.h">
+      <Filter>Header Files\Engine\Commons</Filter>
+    </ClInclude>
+    <ClInclude Include="Collisions.h">
+      <Filter>Header Files\Engine\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Header Files\Engine\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="MathFunctions.h">
+      <Filter>Header Files\Engine\MATH</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture2D.h">
+      <Filter>Header Files\Engine\Texture2D</Filter>
+    </ClInclude>
+    <ClInclude Include="Coin.h">
+      <Filter>Header Files\GameObjects\Coins</Filter>
+    </ClInclude>
+    <ClInclude Include="CoinManager.h">
+      <Filter>Header Files\GameObjects\Coins</Filter>
+    </ClInclude>
+    <ClInclude Include="ObstacleManager.h">
+      <Filter>Header Files\GameObjects\Obstacles</Filter>
+    </ClInclude>
+    <ClInclude Include="Obstacle.h">
+      <Filter>Header Files\GameObjects\Obstacles</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelTimerManager.h">
+      <Filter>Header Files\LevelTimer</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerCharacter.h">
+      <Filter>Header Files\GameObjects\PlayerCharacter</Filter>
+    </ClInclude>
+    <ClInclude Include="GUIText.h">
+      <Filter>Header Files\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerUpManager.h">
+      <Filter>Header Files\GameObjects\PowerUps</Filter>
+    </ClInclude>
+    <ClInclude Include="Level1Globals.h">
+      <Filter>Header Files\Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerUp.h">
+      <Filter>Header Files\GameObjects\PowerUps</Filter>
+    </ClInclude>
+    <ClInclude Include="CarCustomisationScreen.h">
+      <Filter>Header Files\Game Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Level1ObjectSpawnHandler.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="SaveGame.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreManager.h">
+      <Filter>Header Files\Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Audio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
